@@ -14,7 +14,7 @@ It generates detailed tree diagrams using UNICODE characters in this specific fo
 
 ```
 . (17 visible files, 0 hidden files, 16 visible directories, 0 hidden directories, 8.34 MB overall size)
-├── Dockerfile (2 hidden files, 7 visible files, 8.34 MB overall size)
+├── Dockerfile
 ├── Gemfile (3 hidden files, 7 visible files, 1.00 KB overall size)
 ├── Gemfile.lock
 ├── README.md
