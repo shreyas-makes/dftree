@@ -2,6 +2,14 @@
 
 `dftree` is an npm package that generates a visual representation of a directory structure using Unicode box-drawing characters.
 
+# Installation
+
+`npm install -g dftree` to install this package globally using npm
+
+To add using bun,
+
+`bun add -g dftree` to install this package globally using bun
+
 It generates detailed tree diagrams using UNICODE characters in this specific format:
 
 ```
