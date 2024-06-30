@@ -1,0 +1,15 @@
+{
+  "name": "dftree",
+  "module": "index.ts",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": {
+    "ftree": "bin/ftree.sh"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
