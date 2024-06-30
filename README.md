@@ -1,6 +1,6 @@
 # dftree - Detailed File Tree Generator
 
-`dftree` is an npm package that generates a visual representation of a directory structure using Unicode box-drawing characters.
+`dftree` is an [npm package that generates a visual representation of a directory structure using Unicode box-drawing characters.](https://www.npmjs.com/package/dftree)
 
 # Installation
 
